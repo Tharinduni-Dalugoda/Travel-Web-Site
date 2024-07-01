@@ -33,16 +33,58 @@
 
         <div id="menu-btn" class="fa-solid fa-bars"></div>
 
-    
-
     </section>
+    <!-- end header -->
     
-    
+   
 
 
 
 
 
+
+
+
+    <!-- start footer -->
+    <section class="footer">
+
+        <div class="box-container">
+
+            <div class="box">
+                <h3 style="color:aliceblue"> Quick links </h3>
+                <a href=".php"><i class="fa-solid fa-angle-right"></i> Home </a>
+                <a href=".php"><i class="fa-solid fa-angle-right"></i> About </a>
+                <a href="package.php"><i class="fa-solid fa-angle-right"></i> Package </a>
+                <a href="book.php"><i class="fa-solid fa-angle-right"></i> Book </a>
+            </div>
+
+            <div class="box">
+                <h3 style="color:aliceblue">Extra Links</h3>
+                <a href="#"><i class="fa-solid fa-angle-right"></i>Ask Questions</a>
+                <a href="#"><i class="fa-solid fa-angle-right"></i>About Us</a>
+                <a href="#"><i class="fa-solid fa-angle-right"></i>Privacy Policy</a>
+                <a href="#"><i class="fa-solid fa-angle-right"></i>Terms Of Use</a>
+            </div>
+
+            <div class="box">
+                <h3 style="color:aliceblue">Contact info</h3>
+                <a href="#"><i class="fa-solid fa-phone"></i>+9473-493-3898</a>
+                <a href="#"><i class="fa-solid fa-phone"></i>+9473-493-8872</a>
+                <a href="#"><i class="fa-regular fa-envelope"></i>tharinduni@gmail.com</a>
+                <a href="#"><i class="fa-regular fa-location-dot"></i>Colombo- Srilanka</a>
+            </div>
+
+            <div class="box">
+                <h3 style="color:aliceblue">Contact info</h3>
+                <a href="#"><i class="fa-brands fa-facebook"></i>Facebook</a>
+                <a href="#"><i class="fa-brands fa-twitter"></i>twitter</a>
+                <a href="#"><i class="fa-brands fa-square-instagram"></i>Instagram</a>
+                <a href="#"><i class="fa-solid fa-location-dot"></i>linkedin</a>
+            </div>
+
+        </div>
+    </section>
+    <!-- end footrer -->
 
 
     <!-- js link -->
